@@ -1,6 +1,6 @@
 id = "lunar-blue-theme"
 name = "Lunar Blue"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 description = "A quiet graphite-dark Zed theme with luminous lunar-blue accents."
 repository = "https://github.com/joaocardosodias/zed-lunar-blue-theme"

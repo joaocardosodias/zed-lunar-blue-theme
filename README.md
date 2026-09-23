@@ -13,14 +13,14 @@ The theme is original and is not affiliated with or endorsed by Zed Industries.
 | Background | `#121316` |
 | Deep surface | `#0d0d0f` |
 | Raised surface | `#212328` |
-| Foreground | `#e3e4e7` |
-| Muted text | `#727a89` |
+| Foreground | `#e8edf5` |
+| Muted text | `#818b9d` |
 | Lunar accent | `#8ec5ff` |
 | Deep selection | `#1348dc` |
 
 `#8ec5ff` is used for focus borders, links, active line numbers, and luminous
-details. `#1348dc` gives selected and active surfaces more depth without making
-the editor overly bright.
+details. `#1348dc` gives selected and active surfaces more depth, while vivid
+supporting colors keep syntax, diagnostics, and Git states easy to distinguish.
 
 ## Install for development
 
