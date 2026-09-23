@@ -15,12 +15,12 @@ The theme is original and is not affiliated with or endorsed by Zed Industries.
 | Raised surface | `#212328` |
 | Foreground | `#e8edf5` |
 | Muted text | `#818b9d` |
-| Lunar accent | `#8ec5ff` |
-| Deep selection | `#1348dc` |
+| Primary blue | `#1348dc` |
+| Soft highlight | `#8ec5ff` |
 
-`#8ec5ff` is used for focus borders, links, active line numbers, and luminous
-details. `#1348dc` gives selected and active surfaces more depth, while vivid
-supporting colors keep syntax, diagnostics, and Git states easy to distinguish.
+`#1348dc` drives focused borders, active controls, selections, icons, and the
+terminal blue. `#8ec5ff` is reserved for small text and syntax highlights where
+the stronger blue would lose readability against graphite surfaces.
 
 ## Install for development
 
