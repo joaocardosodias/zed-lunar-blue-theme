@@ -49,3 +49,16 @@ Lunar Blue is designed around Zed's own font aliases:
 
 - `.ZedSans` / IBM Plex Sans for the interface.
 - `.ZedMono` / Lilex for code and the integrated terminal.
+
+To make those roles explicit when the matching system fonts are installed,
+add the following to Zed's `settings.json`:
+
+```json
+{
+  "ui_font_family": "IBM Plex Sans",
+  "buffer_font_family": "Lilex Nerd Font Mono",
+  "terminal": {
+    "font_family": "Lilex Nerd Font Mono"
+  }
+}
+```
